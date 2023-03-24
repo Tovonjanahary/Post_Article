@@ -1,4 +1,4 @@
-# Stage en L2
+# Stage en deuxieme annee de Licence
 
 ## Une partie dans l'accueil
 ![](images/accueil.png)
